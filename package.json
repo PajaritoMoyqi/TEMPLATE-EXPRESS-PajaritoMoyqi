@@ -1,0 +1,31 @@
+{
+  "name": "writingblog",
+  "version": "1.0.0",
+  "description": "Pajarito Writing Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PajaritoMoyqi/WritingBlog.git"
+  },
+  "keywords": [
+    "blog",
+    "pajarito"
+  ],
+  "author": "Pajarito Moyqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PajaritoMoyqi/WritingBlog/issues"
+  },
+  "homepage": "https://github.com/PajaritoMoyqi/WritingBlog#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
