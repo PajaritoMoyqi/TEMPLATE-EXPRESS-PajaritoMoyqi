@@ -1,5 +1,5 @@
 {
-  "name": "writingblog",
+  "name": "template-express",
   "version": "1.0.0",
   "description": "Pajarito Writing Blog",
   "main": "index.js",
@@ -11,15 +11,16 @@
     "url": "git+https://github.com/PajaritoMoyqi/TEMPLATE-EXPRESS-PajaritoMoyqi"
   },
   "keywords": [
-    "blog",
-    "pajarito"
+    "template",
+    "node.js",
+    "express"
   ],
   "author": "Pajarito Moyqi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PajaritoMoyqi/WritingBlog/issues"
+    "url": "https://github.com/PajaritoMoyqi/TEMPLATE-EXPRESS-PajaritoMoyqi/issues"
   },
-  "homepage": "https://github.com/PajaritoMoyqi/WritingBlog#readme",
+  "homepage": "https://github.com/PajaritoMoyqi/TEMPLATE-EXPRESS-PajaritoMoyqi#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
