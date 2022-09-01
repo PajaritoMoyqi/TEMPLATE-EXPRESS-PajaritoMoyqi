@@ -23,10 +23,10 @@
   "homepage": "https://github.com/PajaritoMoyqi/TEMPLATE-EXPRESS-PajaritoMoyqi#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "ejs": "^3.1.6",
+    "ejs": "^3.1.8",
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.19"
   }
 }
